@@ -4,13 +4,9 @@ This repository contains a Jupyter Notebook for augmenting images and YOLO-forma
 
 ## Features
 - Supports YOLO-format bounding box annotations.
-- Augments images with various transformations.
+- Augments images as well as their bounding boxes with various transformations.
 - Displays original and augmented images for comparison.
 
-## Requirements
-To run the notebook, install the required Python libraries:
-```bash
-pip install -r requirements.txt
 ```
 ## LinkedIn Post
 
