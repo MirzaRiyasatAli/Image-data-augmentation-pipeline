@@ -12,12 +12,12 @@ To run the notebook, install the required Python libraries:
 ```bash
 pip install -r requirements.txt
 ```
-
-![Image](Screen.png)
-
 ## LinkedIn Post
 
 I shared more details about this project on LinkedIn! Check it out here:  
 [My LinkedIn Post](https://www.linkedin.com/posts/mirza-riyasat-ali_machinelearning-objectdetection-dataaugmentation-activity-7286739494609846272-ckmd?utm_source=social_share_send&utm_medium=member_desktop_web)
+
+![Image](Screen.png)
+
 
 
