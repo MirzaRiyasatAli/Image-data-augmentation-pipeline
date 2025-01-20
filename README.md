@@ -18,6 +18,6 @@ pip install -r requirements.txt
 ## LinkedIn Post
 
 I shared more details about this project on LinkedIn! Check it out here:  
-[My LinkedIn Post](<[insert-link-to-your-linkedin-post](https://www.linkedin.com/posts/mirza-riyasat-ali_machinelearning-objectdetection-dataaugmentation-activity-7286739494609846272-ckmd?utm_source=social_share_send&utm_medium=member_desktop_web)>)
+[My LinkedIn Post](https://www.linkedin.com/posts/mirza-riyasat-ali_machinelearning-objectdetection-dataaugmentation-activity-7286739494609846272-ckmd?utm_source=social_share_send&utm_medium=member_desktop_web)
 
 
