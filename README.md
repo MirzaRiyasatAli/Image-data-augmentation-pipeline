@@ -7,7 +7,7 @@ This repository contains a Jupyter Notebook for augmenting images and YOLO-forma
 - Augments images as well as their bounding boxes with various transformations.
 - Displays original and augmented images for comparison.
 
-```
+
 ## LinkedIn Post
 
 I shared more details about this project on LinkedIn! Check it out here:  
